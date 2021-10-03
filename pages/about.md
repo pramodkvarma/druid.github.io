@@ -2,9 +2,9 @@
 layout: page
 title: About
 permalink: /about
-categories: facts
-image: cuba-2.jpg
 ---
+
+![alt text](https://github.com/pramodkvarma/pramodkvarma.github.io/raw/gh-pages/assets/img/prmod-sketch.png  "Pramod Varma's Photo in painting style")
 
 Dr. Pramod Varma is the CTO of EkStep Foundation, a not-for-profit creating learnercentric, technology enabled platform aiming to provide learning opportunities to 200 million children in India where he helped architect a set of open source digital building blocks called [Sunbird](https://sunbird.org). 
 
