@@ -2,8 +2,8 @@
 layout: post
 title: "Welcome to druid.page!"
 author: "Pramod Varma"
-categories: blog
-tags: [blog]
+categories: [blog, podcast]
+tags: [blog, technology]
 image: cuba-1.jpg
 ---
 
