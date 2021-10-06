@@ -9,6 +9,8 @@ image: cuba-1.jpg
 
 I am speaking at [Western Balkans digital summit](https://event.digitalsummitwb2021.com/event/digital-summit-western-balkans) on an important topic. This is a brief talk before the [panel discussion](https://event.digitalsummitwb2021.com/event/digital-summit-western-balkans/planning/UGxhbm5pbmdfNjU1NTU2) session. Following is my speech text.
 
+***
+
 Connectivity, data, and AI, all of which will have an unimaginable impact on society.
 
 Hello! I am Pramod Varma, Chief Architect of India’s digital ID program and architect of India Stack touching a billion people in India. I am pleased to be speaking with all of you today on this important topic!
