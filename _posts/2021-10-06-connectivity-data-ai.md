@@ -4,7 +4,7 @@ title: "Connectivity, data, and AI!"
 author: "Pramod Varma"
 categories: blog
 tags: [technology, society]
-image: cuba-1.jpg
+image: ai-data.jpg
 ---
 
 I am speaking at [Western Balkans digital summit](https://event.digitalsummitwb2021.com/event/digital-summit-western-balkans) on an important topic. This is a brief talk before the [panel discussion](https://event.digitalsummitwb2021.com/event/digital-summit-western-balkans/planning/UGxhbm5pbmdfNjU1NTU2) session. Following is my speech text.
