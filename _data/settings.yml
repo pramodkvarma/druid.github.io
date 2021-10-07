@@ -9,7 +9,6 @@ google-ID: ''
 menu:
 - {name: 'Blog',  url: 'blog'}
 - {name: 'Podcasts', url: 'podcasts'}
-- {name: 'Articles',       url: 'articles'}
 - {name: 'Videos',      url: 'videos'}
 - {name: 'About',              url: 'about'}
 

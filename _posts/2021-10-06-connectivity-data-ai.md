@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Connectivity, data, and AI!"
+title: "Connectivity, data, and AI"
 author: "Pramod Varma"
 categories: blog
 tags: [technology, society]

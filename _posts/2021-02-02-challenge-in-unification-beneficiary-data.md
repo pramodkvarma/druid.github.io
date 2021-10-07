@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Architecting Privacy Protecting Unified Social Registry!"
+title: "Architecting Privacy Protecting Unified Social Registry"
 author: "Pramod Varma"
 categories: blog
 tags: [technology, government, registry, society]
